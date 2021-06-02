@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.laobi.icu/badge?page_id=tiwariarjun91.tiwariarjun91)
+
+[![Github](https://img.shields.io/github/followers/tiwariarjun91?label=Follow&style=social)](https://github.com/tiwariarjun91)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariarjun91&theme=tokyonight)
+
+
+
