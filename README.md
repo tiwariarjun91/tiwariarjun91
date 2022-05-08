@@ -1,4 +1,4 @@
-### Hi, I am Arjun, I am working as a Software Development Engineer at Jio. With my team we are building microservices using Golang. I am interested in the fields if Distributed and Parallel Computing.👋
+### Hi, I am Arjun, I am working as a Software Development Engineer at Jio. With my team we are building microservices using Golang. I am interested in the fields of Distributed and Parallel Computing.👋
 
 <!--
 **tiwariarjun91/tiwariarjun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
